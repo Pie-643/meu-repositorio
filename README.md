@@ -1,1 +1,1 @@
-# meu-repositorio
+Meu repositorio de estudos do Git!
